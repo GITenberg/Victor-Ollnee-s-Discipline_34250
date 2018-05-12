@@ -1,0 +1,32 @@
+_repo: Victor-Ollnee-s-Discipline_34250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+description: This 1911 novel features a spiritual medium who sacrifices to make a
+  better life for her son, while keeping him ignorant of her profession. When she
+  is the subject of a lawsuit in which she must prove her claims, her manifestations
+  of supernatural power win her skeptical son over though at a tragic price.
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Spiritualism -- Fiction'
+- !lcsh 'Young men -- Fiction'
+title: Victor Ollnee's Discipline
+url: http://www.gutenberg.org/ebooks/34250
